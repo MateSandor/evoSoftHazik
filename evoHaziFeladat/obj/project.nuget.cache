@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjY1eoDxSp2M127U5PMgeWjv9Wb4jnsyyf3jhkSLDefWLRJwvWrdvF6hEJhehJABYg/cIT9j+JFv/1FGrKCm2A==",
+  "success": true,
+  "projectFilePath": "C:\\Asztal\\Érettségi\\evosoftHaziFeladat\\evoHaziFeladat\\evoHaziFeladat\\evoHaziFeladat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andras\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

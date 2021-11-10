@@ -1,0 +1,13 @@
+C:\Asztal\Érettségi\evosoftHaziFeladat\evoHaziFeladat\evoHaziFeladat\bin\Debug\netcoreapp3.1\evoHaziFeladat.exe
+C:\Asztal\Érettségi\evosoftHaziFeladat\evoHaziFeladat\evoHaziFeladat\bin\Debug\netcoreapp3.1\evoHaziFeladat.deps.json
+C:\Asztal\Érettségi\evosoftHaziFeladat\evoHaziFeladat\evoHaziFeladat\bin\Debug\netcoreapp3.1\evoHaziFeladat.runtimeconfig.json
+C:\Asztal\Érettségi\evosoftHaziFeladat\evoHaziFeladat\evoHaziFeladat\bin\Debug\netcoreapp3.1\evoHaziFeladat.runtimeconfig.dev.json
+C:\Asztal\Érettségi\evosoftHaziFeladat\evoHaziFeladat\evoHaziFeladat\bin\Debug\netcoreapp3.1\evoHaziFeladat.dll
+C:\Asztal\Érettségi\evosoftHaziFeladat\evoHaziFeladat\evoHaziFeladat\bin\Debug\netcoreapp3.1\evoHaziFeladat.pdb
+C:\Asztal\Érettségi\evosoftHaziFeladat\evoHaziFeladat\evoHaziFeladat\obj\Debug\netcoreapp3.1\evoHaziFeladat.csprojAssemblyReference.cache
+C:\Asztal\Érettségi\evosoftHaziFeladat\evoHaziFeladat\evoHaziFeladat\obj\Debug\netcoreapp3.1\evoHaziFeladat.AssemblyInfoInputs.cache
+C:\Asztal\Érettségi\evosoftHaziFeladat\evoHaziFeladat\evoHaziFeladat\obj\Debug\netcoreapp3.1\evoHaziFeladat.AssemblyInfo.cs
+C:\Asztal\Érettségi\evosoftHaziFeladat\evoHaziFeladat\evoHaziFeladat\obj\Debug\netcoreapp3.1\evoHaziFeladat.csproj.CoreCompileInputs.cache
+C:\Asztal\Érettségi\evosoftHaziFeladat\evoHaziFeladat\evoHaziFeladat\obj\Debug\netcoreapp3.1\evoHaziFeladat.dll
+C:\Asztal\Érettségi\evosoftHaziFeladat\evoHaziFeladat\evoHaziFeladat\obj\Debug\netcoreapp3.1\evoHaziFeladat.pdb
+C:\Asztal\Érettségi\evosoftHaziFeladat\evoHaziFeladat\evoHaziFeladat\obj\Debug\netcoreapp3.1\evoHaziFeladat.genruntimeconfig.cache
